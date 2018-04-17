@@ -1,3 +1,7 @@
 This is a hidden text file.
 
 Let's add another line.
+
+New line to test git gutter
+
+Adding a new line
